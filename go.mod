@@ -34,7 +34,6 @@ require (
 	github.com/hashicorp/errwrap v1.0.0 // indirect
 	github.com/hashicorp/go-multierror v1.1.1 // indirect
 	github.com/huin/asn1ber v0.0.0-20120622192748-af09f62e6358 // indirect
-	github.com/icodeface/tls v0.0.0-20190904083142-17aec93c60e5 // indirect
 	github.com/lunixbochs/struc v0.0.0-20200707160740-784aaebc1d40 // indirect
 	github.com/mattn/go-colorable v0.0.9 // indirect
 	github.com/mattn/go-isatty v0.0.3 // indirect
@@ -50,6 +49,6 @@ require (
 	honnef.co/go/tools v0.0.1-2019.2.3 // indirect
 )
 
-replace github.com/tomatome/grdp v0.0.0-20211231062539-be8adab7eaf3 => github.com/shadow1ng/grdp v1.0.3
+replace github.com/tomatome/grdp v0.0.0-20211231062539-be8adab7eaf3 => github.com/neko205-mx/grdp v0.0.0-20241212060740-9eb3456031f5
 
 replace github.com/C-Sto/goWMIExec v0.0.1-deva.0.20210704154847-b8ebd6464a06 => github.com/shadow1ng/goWMIExec v0.0.2
